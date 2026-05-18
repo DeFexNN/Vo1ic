@@ -89,22 +89,6 @@ $ cat /etc/vo1ic/profile.conf
 
 ---
 
-## `> cat ./github-stats.json`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vo1ic&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vo1ic&theme=terminal&border=00FF41&ring=7B00FF&fire=FF6B00&currStreakLabel=00FF41&background=0D1117&sideLabels=FFFFFF&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## `> ping ./contact`
 
 <div align="center">
